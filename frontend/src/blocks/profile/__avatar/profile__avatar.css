@@ -1,0 +1,15 @@
+.profile__avatar {
+    grid-area: img;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.profile__avatar:hover {
+    opacity: 0.6;
+    cursor: url('../../../img/pointer_pen.svg'), pointer;
+    
+  }

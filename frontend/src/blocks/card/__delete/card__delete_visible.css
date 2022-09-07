@@ -1,0 +1,15 @@
+.card__delete_visible {
+    border: none;
+    background: url(../../../img/Trash.svg) center no-repeat;
+    background-size: 100%;
+    cursor: pointer;
+    width: 18px;
+    height: 19px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.card__delete:hover {
+    opacity: 0.6;
+}

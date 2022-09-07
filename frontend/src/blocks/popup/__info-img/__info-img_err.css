@@ -1,0 +1,7 @@
+.popup__info-img_err {
+    width: 120px;
+    height: 120px;
+    margin-top: 60px;
+    background-image: url(../../../img/ErrImg.svg);
+    background-size: cover;
+}
