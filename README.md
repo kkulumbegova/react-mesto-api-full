@@ -2,6 +2,10 @@
 Проект `Mesto`, включающий фронтенд и бэкенд части приложения со следующими возможностями: 
 авторизации и регистрации пользователей, операции с карточками и пользователями
   
-URL: https://kulumbegova.mesto.nomorepartiesxyz.ru
-IP адрес сервера 62.84.124.122
+Фронтэнд: https://kulumbegova.mesto.nomorepartiesxyz.ru  
+
+Бэкэнд: https://kulumbegova.nomoredomains.sbs  
+IP адрес сервера 62.84.124.122  
+
+
 
